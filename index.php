@@ -1,5 +1,5 @@
 <?php
 
-  echo "welcome to codepipeline";
+  echo "codepipeline";
 
 ?>
